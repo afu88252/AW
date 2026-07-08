@@ -1,0 +1,42 @@
+name: Track new products
+
+on:
+  schedule:
+    # 每 30 分鐘執行一次（時間是 UTC，泰國/台灣時間要 +7 / +8 小時換算，不過排程本身不用管時區，反正是每 30 分鐘跑一次）
+    - cron: '*/30 * * * *'
+  # 也可以在 GitHub 網頁上手動點一下馬上執行一次，方便測試
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 取出程式碼
+        uses: actions/checkout@v4
+
+      - name: 設定 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安裝套件
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: 執行追蹤程式
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python tracker.py
+
+      - name: 把最新的商品清單存回倉庫（下次比對用）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "更新商品清單快照"
+          git push
