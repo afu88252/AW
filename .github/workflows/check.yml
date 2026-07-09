@@ -15,9 +15,10 @@ jobs:
           python-version: '3.12'
       - run: pip install -r requirements.txt
       - run: playwright install chromium --with-deps
-      - env:
+      env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
         run: python tracker.py
       - run: |
           git config user.name "github-actions[bot]"
