@@ -1,7 +1,7 @@
 name: Track new products (website)
 on:
   schedule:
-    - cron: '5,20,35,50 * * * *'
+    - cron: '5,20,35,50 0-17,23 * * *'
   workflow_dispatch:
 permissions:
   contents: write
