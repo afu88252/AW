@@ -14,11 +14,16 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install requests
-      - env:
+
+      - name: Run website tracker script
+        env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
         run: python tracker_website.py
-      - run: |
+
+      - name: Push updated website state
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add state_website.json
