@@ -116,7 +116,6 @@ def send_line(message):
 
 def notify(message):
     send_telegram(message)
-    send_line(message)
 
 
 async def main():
