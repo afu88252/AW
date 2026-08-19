@@ -9,7 +9,7 @@
       "collection": "Steady Wonder",
       "collectionId": "246222",
       "createdAt": "2026-07-25T09:39:08Z",
-      "status": "OUTOFSTOCK"
+      "status": "SALE"
     },
     "1008215936": {
       "name": "The Journey Jacket  | Espresso Brown",
@@ -114,21 +114,21 @@
       "collection": "Steady Wonder",
       "collectionId": "246222",
       "createdAt": "2026-07-25T10:12:10Z",
-      "status": "OUTOFSTOCK"
+      "status": "SALE"
     },
     "1008215988": {
       "name": "The Unbound Tank Top | Lavender Haze",
       "collection": "Steady Wonder",
       "collectionId": "246222",
       "createdAt": "2026-07-25T10:13:34Z",
-      "status": "OUTOFSTOCK"
+      "status": "SALE"
     },
     "1008215992": {
       "name": "The Duality Denim | Sky Denim",
       "collection": "Steady Wonder",
       "collectionId": "246222",
       "createdAt": "2026-07-25T10:16:20Z",
-      "status": "OUTOFSTOCK"
+      "status": "SALE"
     },
     "1008215998": {
       "name": "The Duality Denim | Midnight Denim",
@@ -156,7 +156,7 @@
       "collection": "Steady Wonder",
       "collectionId": "246222",
       "createdAt": "2026-07-25T10:22:41Z",
-      "status": "OUTOFSTOCK"
+      "status": "SALE"
     },
     "1008216025": {
       "name": "Wonder Flower Griptok | Espresso Brown",
@@ -177,21 +177,28 @@
       "collection": "Goldie Wonderland",
       "collectionId": "243611",
       "createdAt": "2026-05-23T03:29:09Z",
-      "status": "OUTOFSTOCK"
+      "status": "SALE"
+    },
+    "1008086602": {
+      "name": "Goldie's Everyday Oversized Tee | Strawberry Milk",
+      "collection": "Goldie Wonderland",
+      "collectionId": "243611",
+      "createdAt": "2026-05-23T03:36:44Z",
+      "status": "SALE"
     },
     "1008086620": {
       "name": "Little Goldie Oversized Tee | Dark Charcoal",
       "collection": "Goldie Wonderland",
       "collectionId": "243611",
       "createdAt": "2026-05-23T03:51:17Z",
-      "status": "OUTOFSTOCK"
+      "status": "SALE"
     },
     "1008086611": {
       "name": "Little Goldie Oversized Tee | Matcha latte",
       "collection": "Goldie Wonderland",
       "collectionId": "243611",
       "createdAt": "2026-05-23T03:45:21Z",
-      "status": "OUTOFSTOCK"
+      "status": "SALE"
     },
     "1008086585": {
       "name": "Wonderland cozy cardigan  | Matcha latte",
