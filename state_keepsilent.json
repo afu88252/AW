@@ -1,14 +1,4 @@
 {
-  "https://www.keepsilentshhh.com/product/least-peace-tank/11001016537000337": {
-    "name": "LEAST PEACE TANK",
-    "url": "https://www.keepsilentshhh.com/product/least-peace-tank/11001016537000337",
-    "price": "฿ 1,190.00",
-    "sizes": [
-      "L",
-      "M",
-      "S"
-    ]
-  },
   "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-blue/11001016537000329": {
     "name": "MELTING GHOST TEE-ICE BLUE",
     "url": "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-blue/11001016537000329",
@@ -378,7 +368,7 @@
   "https://www.keepsilentshhh.com/product/keep-love-tee-daisy/11001016537000118": {
     "name": "KEEP LOVE TEE - DAISY",
     "url": "https://www.keepsilentshhh.com/product/keep-love-tee-daisy/11001016537000118",
-    "price": "",
+    "price": "฿ 1,150.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/keep-snowman-indigo/11001016537000218": {
@@ -396,6 +386,12 @@
   "https://www.keepsilentshhh.com/product/shhh-tote-black-denim/11001016537000187": {
     "name": "Shhh TOTE Black Denim",
     "url": "https://www.keepsilentshhh.com/product/shhh-tote-black-denim/11001016537000187",
+    "price": "฿ 1,390.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/shhh-tote-coal-denim/11001016537000186": {
+    "name": "Shhh TOTE Coal Denim",
+    "url": "https://www.keepsilentshhh.com/product/shhh-tote-coal-denim/11001016537000186",
     "price": "฿ 1,390.00",
     "sizes": []
   }
