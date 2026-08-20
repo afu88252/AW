@@ -1,4 +1,4 @@
-name: Track new products (website)
+name: https://alwayswonder-co.com
 on:
   schedule:
     - cron: '*/10 * * * *'
