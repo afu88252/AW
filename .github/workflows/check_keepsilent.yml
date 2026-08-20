@@ -1,7 +1,7 @@
 name: Track new products (KEEPSILENT)
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
