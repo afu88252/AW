@@ -34,7 +34,28 @@ STOCK_KEYWORDS = ["SOLD OUT", "OUT OF STOCK", "PRE-ORDER", "PREORDER", "COMING S
 async def get_product_links(page, collection_url):
     """從分類頁抓出所有商品連結"""
     await page.goto(collection_url, wait_until="domcontentloaded", timeout=45000)
-    await page.wait_for_timeout(3000)
+
+    # 嘗試關閉可能出現的 Cookie 同意彈窗，避免擋住畫面互動
+    for text in ["Accept", "accept", "OK", "同意", "Got it"]:
+        try:
+            btn = page.get_by_text(text, exact=False)
+            if await btn.count() > 0:
+                await btn.first.click(timeout=2000)
+                break
+        except Exception:
+            pass
+
+    # 明確等待商品連結出現，最多等 20 秒；等不到就當作 0 個商品
+    try:
+        await page.wait_for_selector("a[href*='/product/']", timeout=20000)
+    except Exception:
+        pass
+
+    # 模擬捲動到底部，觸發可能的延遲載入 (infinite scroll / lazy load)
+    for _ in range(5):
+        await page.mouse.wheel(0, 2000)
+        await page.wait_for_timeout(800)
+
     links = await page.eval_on_selector_all(
         "a[href*='/product/']",
         "els => [...new Set(els.map(e => e.href))]",
