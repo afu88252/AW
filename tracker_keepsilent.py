@@ -26,7 +26,9 @@ LINE_CHANNEL_ACCESS_TOKEN = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN")
 
 async def get_product_links(page):
     """從分類頁抓出所有商品連結"""
-    await page.goto(CATEGORY_URL, wait_until="networkidle", timeout=30000)
+    await page.goto(CATEGORY_URL, wait_until="domcontentloaded", timeout=45000)
+    # 網頁用 JS 動態載入商品，等待畫面實際渲染出來
+    await page.wait_for_timeout(3000)
     # LnwX 商品連結通常包含 /product/ 路徑，用這個規則抓連結
     links = await page.eval_on_selector_all(
         "a[href*='/product/']",
@@ -54,7 +56,8 @@ def looks_like_size(text):
 
 async def get_product_detail(page, url):
     """進入商品頁，抓名稱、價格、圖片、尺寸選項"""
-    await page.goto(url, wait_until="networkidle", timeout=30000)
+    await page.goto(url, wait_until="domcontentloaded", timeout=45000)
+    await page.wait_for_timeout(2000)
 
     name = await page.title()
     name = name.replace("KEEPSILENT", "").strip(" |-")
