@@ -3,19 +3,31 @@
     "name": "MELTING GHOST TEE-ICE BLUE",
     "url": "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-blue/11001016537000329",
     "price": "฿ 1,290.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/tough-day-baggy-jeans/11001016537000460": {
     "name": "TOUGH DAY BAGGY JEANS",
     "url": "https://www.keepsilentshhh.com/product/tough-day-baggy-jeans/11001016537000460",
     "price": "฿ 2,190.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/forest-ripstop-shorts/11001016537000418": {
     "name": "FOREST RIPSTOP SHORTS",
     "url": "https://www.keepsilentshhh.com/product/forest-ripstop-shorts/11001016537000418",
     "price": "฿ 1,090.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/keep-the-wonder-white-ringer-tee/11001016537000259": {
     "name": "KEEP THE WONDER WHITE RINGER TEE",
@@ -27,13 +39,21 @@
     "name": "DUST CHECK HAWAII SHIRT",
     "url": "https://www.keepsilentshhh.com/product/dust-check-hawaii-shirt/11001016537000321",
     "price": "฿ 1,890.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/party-leftovers-tee/11001016537000358": {
     "name": "PARTY LEFTOVERS TEE",
     "url": "https://www.keepsilentshhh.com/product/party-leftovers-tee/11001016537000358",
     "price": "฿ 1,290.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/1127-key/11001016537000280": {
     "name": "1127 KEY",
@@ -45,13 +65,21 @@
     "name": "27 TEE",
     "url": "https://www.keepsilentshhh.com/product/27-tee/11001016537000354",
     "price": "฿ 1,290.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-cream/11001016537000333": {
     "name": "MELTING GHOST TEE-ICE CREAM",
     "url": "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-cream/11001016537000333",
     "price": "฿ 1,290.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/night-pin-set/11001016537000480": {
     "name": "NIGHT PIN SET",
@@ -81,25 +109,41 @@
     "name": "OWN RULE RINGER TEE",
     "url": "https://www.keepsilentshhh.com/product/own-rule-ringer-tee/11001016537000473",
     "price": "฿ 1,290.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/ks-fence-ringer-tee/11001016537000469": {
     "name": "KS FENCE RINGER TEE",
     "url": "https://www.keepsilentshhh.com/product/ks-fence-ringer-tee/11001016537000469",
     "price": "฿ 1,290.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/star-lasso-tee/11001016537000465": {
     "name": "STAR LASSO TEE",
     "url": "https://www.keepsilentshhh.com/product/star-lasso-tee/11001016537000465",
     "price": "฿ 1,290.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/invisible-mustang-tee/11001016537000456": {
     "name": "INVISIBLE MUSTANG TEE",
     "url": "https://www.keepsilentshhh.com/product/invisible-mustang-tee/11001016537000456",
     "price": "฿ 1,290.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/keep-the-wonder-black-ringer-tee/11001016537000255": {
     "name": "KEEP THE WONDER BLACK RINGER TEE",
@@ -111,13 +155,21 @@
     "name": "OFF-TRAIL LONG SLEEVE TEE",
     "url": "https://www.keepsilentshhh.com/product/off-trail-long-sleeve-tee/11001016537000394",
     "price": "฿ 1,590.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/dirt-long-sleeve-tee/11001016537000398": {
     "name": "DIRT LONG SLEEVE TEE",
     "url": "https://www.keepsilentshhh.com/product/dirt-long-sleeve-tee/11001016537000398",
     "price": "฿ 1,590.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/keep-the-wonder-black-sweatpants/11001016537000267": {
     "name": "KEEP THE WONDER BLACK SWEATPANTS",
@@ -153,25 +205,41 @@
     "name": "WISHLESS STAR LONG SLEEVE TEE",
     "url": "https://www.keepsilentshhh.com/product/wishless-star-long-sleeve-tee/11001016537000370",
     "price": "฿ 1,590.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/let%E2%80%99s-eat-long-sleeve-tee/11001016537000366": {
     "name": "LET’S EAT LONG SLEEVE TEE",
     "url": "https://www.keepsilentshhh.com/product/let%E2%80%99s-eat-long-sleeve-tee/11001016537000366",
     "price": "฿ 1,590.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/my-birthday-cake-tee/11001016537000362": {
     "name": "MY BIRTHDAY CAKE TEE",
     "url": "https://www.keepsilentshhh.com/product/my-birthday-cake-tee/11001016537000362",
-    "price": "฿ 1,290.00",
-    "sizes": []
+    "price": "",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/wishless-party-tee/11001016537000350": {
     "name": "WISHLESS PARTY TEE",
     "url": "https://www.keepsilentshhh.com/product/wishless-party-tee/11001016537000350",
     "price": "฿ 1,290.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/keep-juad/11001016537000193": {
     "name": "KEEP JUAD",
@@ -201,7 +269,11 @@
     "name": "NIGHT CHECK HAWAII SHIRT",
     "url": "https://www.keepsilentshhh.com/product/night-check-hawaii-shirt/11001016537000317",
     "price": "฿ 1,890.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/keep-snowman-ruby/11001016537000213": {
     "name": "KEEP SNOWMAN RUBY",
@@ -237,13 +309,21 @@
     "name": "BAGGY CARGO SHORTS-BLACK",
     "url": "https://www.keepsilentshhh.com/product/baggy-cargo-shorts-black/11001016537000345",
     "price": "฿ 1,690.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/baggy-cargo-shorts-gray/11001016537000341": {
     "name": "BAGGY CARGO SHORTS-GRAY",
     "url": "https://www.keepsilentshhh.com/product/baggy-cargo-shorts-gray/11001016537000341",
     "price": "฿ 1,690.00",
-    "sizes": []
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   },
   "https://www.keepsilentshhh.com/product/hide-the-sun-bucket-denim/11001016537000314": {
     "name": "HIDE THE SUN BUCKET-DENIM",
