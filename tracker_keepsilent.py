@@ -10,6 +10,7 @@ KEEPSILENT (keepsilentshhh.com) 新品／尺寸更新追蹤器
 import asyncio
 import json
 import os
+import re
 from pathlib import Path
 
 import requests
@@ -37,25 +38,11 @@ async def get_product_links(page):
     return links
 
 
-import re
-
-SIZE_PATTERN = re.compile(
-    r"^(XXS|XS|S|M|L|XL|XXL|XXXL|2XL|3XL|4XL|"
-    r"FREE\s?SIZE|ONE\s?SIZE|F|"
-    r"[0-9]{2,3}(\.[0-9])?(\s?(CM|IN))?)$",
-    re.IGNORECASE,
-)
-
-
-def looks_like_size(text):
-    text = text.strip()
-    if not text or len(text) > 15:
-        return False
-    return bool(SIZE_PATTERN.match(text))
+SIZE_TOKEN_PATTERN = re.compile(r"SIZE\s+([A-Z0-9]{1,4})\s*[:\-]", re.IGNORECASE)
 
 
 async def get_product_detail(page, url):
-    """進入商品頁，抓名稱、價格、圖片、尺寸選項"""
+    """進入商品頁，抓名稱、價格、meta 描述裡的尺寸資訊"""
     await page.goto(url, wait_until="domcontentloaded", timeout=45000)
     await page.wait_for_timeout(2000)
 
@@ -73,38 +60,27 @@ async def get_product_detail(page, url):
         except Exception:
             pass
 
-    # 嘗試抓尺寸選項：抓出候選文字後，用 looks_like_size 過濾，
-    # 避免誤抓到語言選單、貨幣選單等不相關的下拉選單
+    # 尺寸資訊藏在 meta description（網站固定寫在裡面的尺寸表），
+    # 例如："SIZE S : CHEST 44 SIZE M : CHEST 46 SIZE L : CHEST 48"
     sizes = []
-    for selector in [
-        ".option-item",
-        ".size-option",
-        "[class*='size'] li",
-        "[class*='size'] button",
-        "[class*='option'] button",
-        "[class*='option'] li",
-        "select option",
-        "button",
-        "li",
-    ]:
-        try:
-            els = await page.query_selector_all(selector)
-            if not els or len(els) > 200:
-                continue
-            texts = [(await e.inner_text()).strip() for e in els]
-            candidates = [t for t in texts if looks_like_size(t)]
-            # 至少抓到 2 個看起來像尺寸的選項才採用，避免誤判單一元素
-            if len(candidates) >= 2:
-                sizes = candidates
-                break
-        except Exception:
-            pass
+    try:
+        meta_desc = await page.get_attribute(
+            "meta[property='og:description']", "content"
+        )
+        if not meta_desc:
+            meta_desc = await page.get_attribute(
+                "meta[name='description']", "content"
+            )
+        if meta_desc:
+            sizes = sorted(set(m.upper() for m in SIZE_TOKEN_PATTERN.findall(meta_desc)))
+    except Exception:
+        pass
 
     return {
         "name": name,
         "url": url,
         "price": price,
-        "sizes": sorted(set(sizes)),
+        "sizes": sizes,
     }
 
 
