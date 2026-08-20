@@ -34,17 +34,21 @@ async def get_product_stock(page, url):
     name = name.split("|")[0].strip()
 
     # 點擊「サイズを選択」開啟尺寸選單
+    click_ok = False
     try:
         size_trigger = page.get_by_text("サイズを選択", exact=False)
-        if await size_trigger.count() > 0:
+        count = await size_trigger.count()
+        print(f"  [診斷] 找到 {count} 個「サイズを選択」文字元素")
+        if count > 0:
             await size_trigger.first.click(timeout=5000)
             await page.wait_for_timeout(1500)
+            click_ok = True
     except Exception as e:
-        print(f"  點擊尺寸選單失敗（可能只有單一規格）: {e}")
+        print(f"  [診斷] 點擊尺寸選單失敗: {e}")
 
     # 抓尺寸選項與是否可選（有貨）
-    # 常見結構：每個尺寸是一個 button/li，缺貨的會有 disabled 屬性或特定 class
     sizes = {}
+    matched_selector = None
     for selector in [
         "button[class*='size']",
         "li[class*='size']",
@@ -70,16 +74,29 @@ async def get_product_stock(page, url):
                     or "sold-out" in class_name.lower()
                 )
                 candidates[text] = "在庫あり" if not looks_soldout else "在庫なし"
-            # 篩選出像尺寸代碼的項目 (S, M, L, XL, FREE, 数字等)
-            size_like = {
-                k: v for k, v in candidates.items()
-                if len(k) <= 6
-            }
+            size_like = {k: v for k, v in candidates.items() if len(k) <= 6}
             if len(size_like) >= 1:
                 sizes = size_like
+                matched_selector = selector
                 break
         except Exception:
             pass
+
+    # 診斷資訊：沒抓到任何尺寸時，記錄當下狀態方便排查
+    if not sizes:
+        try:
+            print(f"  [診斷] 點擊尺寸選單: {'成功' if click_ok else '失敗或跳過'}")
+            print(f"  [診斷] 沒有任何選擇器命中，matched_selector=None")
+            body_text = await page.inner_text("body")
+            # 找出頁面文字中「サイズ」附近的內容，看實際尺寸怎麼標示
+            idx = body_text.find("サイズ")
+            snippet = body_text[max(0, idx - 20): idx + 300] if idx >= 0 else "(找不到「サイズ」字樣)"
+            print(f"  [診斷] 「サイズ」附近文字: {snippet!r}")
+            safe_name = url.rstrip('/').split('/')[-1]
+            await page.screenshot(path=f"debug_{safe_name}.png", full_page=True)
+            print(f"  [診斷] 已儲存截圖 debug_{safe_name}.png")
+        except Exception as e:
+            print(f"  [診斷] 收集診斷資訊時發生錯誤: {e}")
 
     return {
         "name": name,
