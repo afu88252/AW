@@ -35,6 +35,23 @@ async def get_product_links(page):
     return links
 
 
+import re
+
+SIZE_PATTERN = re.compile(
+    r"^(XXS|XS|S|M|L|XL|XXL|XXXL|2XL|3XL|4XL|"
+    r"FREE\s?SIZE|ONE\s?SIZE|F|"
+    r"[0-9]{2,3}(\.[0-9])?(\s?(CM|IN))?)$",
+    re.IGNORECASE,
+)
+
+
+def looks_like_size(text):
+    text = text.strip()
+    if not text or len(text) > 15:
+        return False
+    return bool(SIZE_PATTERN.match(text))
+
+
 async def get_product_detail(page, url):
     """進入商品頁，抓名稱、價格、圖片、尺寸選項"""
     await page.goto(url, wait_until="networkidle", timeout=30000)
@@ -53,23 +70,30 @@ async def get_product_detail(page, url):
         except Exception:
             pass
 
-    # 嘗試抓尺寸選項（常見結構：button/li 列出尺寸代碼）
+    # 嘗試抓尺寸選項：抓出候選文字後，用 looks_like_size 過濾，
+    # 避免誤抓到語言選單、貨幣選單等不相關的下拉選單
     sizes = []
     for selector in [
         ".option-item",
         ".size-option",
         "[class*='size'] li",
+        "[class*='size'] button",
         "[class*='option'] button",
+        "[class*='option'] li",
         "select option",
+        "button",
+        "li",
     ]:
         try:
             els = await page.query_selector_all(selector)
-            if els:
-                texts = [(await e.inner_text()).strip() for e in els]
-                texts = [t for t in texts if t]
-                if texts:
-                    sizes = texts
-                    break
+            if not els or len(els) > 200:
+                continue
+            texts = [(await e.inner_text()).strip() for e in els]
+            candidates = [t for t in texts if looks_like_size(t)]
+            # 至少抓到 2 個看起來像尺寸的選項才採用，避免誤判單一元素
+            if len(candidates) >= 2:
+                sizes = candidates
+                break
         except Exception:
             pass
 
