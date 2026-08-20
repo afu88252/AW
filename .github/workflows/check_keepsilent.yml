@@ -1,10 +1,13 @@
 name: Track new products (KEEPSILENT)
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: keepsilent-tracker
+  cancel-in-progress: false
 jobs:
   check:
     runs-on: ubuntu-latest
