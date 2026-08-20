@@ -2,7 +2,7 @@
   "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-blue/11001016537000329": {
     "name": "MELTING GHOST TEE-ICE BLUE",
     "url": "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-blue/11001016537000329",
-    "price": "",
+    "price": "฿ 1,290.00",
     "sizes": [
       "L",
       "M",
@@ -22,7 +22,7 @@
   "https://www.keepsilentshhh.com/product/forest-ripstop-shorts/11001016537000418": {
     "name": "FOREST RIPSTOP SHORTS",
     "url": "https://www.keepsilentshhh.com/product/forest-ripstop-shorts/11001016537000418",
-    "price": "",
+    "price": "฿ 1,090.00",
     "sizes": [
       "L",
       "M",
@@ -84,7 +84,7 @@
   "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-cream/11001016537000333": {
     "name": "MELTING GHOST TEE-ICE CREAM",
     "url": "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-cream/11001016537000333",
-    "price": "",
+    "price": "฿ 1,290.00",
     "sizes": [
       "L",
       "M",
@@ -148,7 +148,7 @@
   "https://www.keepsilentshhh.com/product/invisible-mustang-tee/11001016537000456": {
     "name": "INVISIBLE MUSTANG TEE",
     "url": "https://www.keepsilentshhh.com/product/invisible-mustang-tee/11001016537000456",
-    "price": "",
+    "price": "฿ 1,290.00",
     "sizes": [
       "L",
       "M",
@@ -269,12 +269,6 @@
     "price": "฿ 1,290.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/night-check-cap/11001016537000311": {
-    "name": "NIGHT CHECK CAP",
-    "url": "https://www.keepsilentshhh.com/product/night-check-cap/11001016537000311",
-    "price": "฿ 1,390.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/logo-rug/11001016537000148": {
     "name": "LOGO RUG",
     "url": "https://www.keepsilentshhh.com/product/logo-rug/11001016537000148",
@@ -300,7 +294,7 @@
   "https://www.keepsilentshhh.com/product/keep-snowman-eggshell/11001016537000208": {
     "name": "KEEP SNOWMAN EGGSHELL",
     "url": "https://www.keepsilentshhh.com/product/keep-snowman-eggshell/11001016537000208",
-    "price": "",
+    "price": "฿ 1,290.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/keep-the-wonder-white-tee/11001016537000276": {
@@ -312,7 +306,7 @@
   "https://www.keepsilentshhh.com/product/half-half-tank-top/11001016537000289": {
     "name": "HALF & HALF TANK TOP",
     "url": "https://www.keepsilentshhh.com/product/half-half-tank-top/11001016537000289",
-    "price": "",
+    "price": "฿ 990.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/keep-the-wonder-black-sweater/11001016537000251": {
@@ -324,7 +318,7 @@
   "https://www.keepsilentshhh.com/product/baggy-cargo-shorts-black/11001016537000345": {
     "name": "BAGGY CARGO SHORTS-BLACK",
     "url": "https://www.keepsilentshhh.com/product/baggy-cargo-shorts-black/11001016537000345",
-    "price": "฿ 1,690.00",
+    "price": "",
     "sizes": [
       "L",
       "M",
@@ -334,7 +328,7 @@
   "https://www.keepsilentshhh.com/product/baggy-cargo-shorts-gray/11001016537000341": {
     "name": "BAGGY CARGO SHORTS-GRAY",
     "url": "https://www.keepsilentshhh.com/product/baggy-cargo-shorts-gray/11001016537000341",
-    "price": "฿ 1,690.00",
+    "price": "",
     "sizes": [
       "L",
       "M",
@@ -380,7 +374,7 @@
   "https://www.keepsilentshhh.com/product/keep-dachshund/11001016537000188": {
     "name": "KEEP DACHSHUND",
     "url": "https://www.keepsilentshhh.com/product/keep-dachshund/11001016537000188",
-    "price": "",
+    "price": "฿ 1,290.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/shhh-tote-black-denim/11001016537000187": {
@@ -393,6 +387,12 @@
     "name": "Shhh TOTE Coal Denim",
     "url": "https://www.keepsilentshhh.com/product/shhh-tote-coal-denim/11001016537000186",
     "price": "฿ 1,390.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/shhh-rug/11001016537000185": {
+    "name": "Shhh RUG",
+    "url": "https://www.keepsilentshhh.com/product/shhh-rug/11001016537000185",
+    "price": "฿ 2,390.00",
     "sizes": []
   }
 }
