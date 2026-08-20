@@ -60,6 +60,23 @@ async def get_product_links(page, collection_url):
         "a[href*='/product/']",
         "els => [...new Set(els.map(e => e.href))]",
     )
+
+    # 診斷資訊：如果抓到 0 個商品，記錄當下實際狀態方便排查
+    if not links:
+        try:
+            final_url = page.url
+            title = await page.title()
+            body_text = await page.inner_text("body")
+            print(f"  [診斷] 最終網址: {final_url}")
+            print(f"  [診斷] 頁面標題: {title}")
+            print(f"  [診斷] 頁面文字長度: {len(body_text)} 字元")
+            print(f"  [診斷] 頁面文字前 300 字: {body_text[:300]!r}")
+            safe_name = collection_url.rstrip('/').split('/')[-1]
+            await page.screenshot(path=f"debug_{safe_name}.png", full_page=True)
+            print(f"  [診斷] 已儲存截圖 debug_{safe_name}.png")
+        except Exception as e:
+            print(f"  [診斷] 收集診斷資訊時發生錯誤: {e}")
+
     return links
 
 
