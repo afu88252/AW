@@ -19,16 +19,6 @@
       "S"
     ]
   },
-  "https://www.keepsilentshhh.com/product/trail-marker-tee/11001016537000406": {
-    "name": "TRAIL MARKER TEE",
-    "url": "https://www.keepsilentshhh.com/product/trail-marker-tee/11001016537000406",
-    "price": "฿ 1,290.00",
-    "sizes": [
-      "L",
-      "M",
-      "S"
-    ]
-  },
   "https://www.keepsilentshhh.com/product/forest-ripstop-shorts/11001016537000418": {
     "name": "FOREST RIPSTOP SHORTS",
     "url": "https://www.keepsilentshhh.com/product/forest-ripstop-shorts/11001016537000418",
@@ -396,6 +386,12 @@
   "https://www.keepsilentshhh.com/product/shhh-tote-black-denim/11001016537000187": {
     "name": "Shhh TOTE Black Denim",
     "url": "https://www.keepsilentshhh.com/product/shhh-tote-black-denim/11001016537000187",
+    "price": "฿ 1,390.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/shhh-tote-coal-denim/11001016537000186": {
+    "name": "Shhh TOTE Coal Denim",
+    "url": "https://www.keepsilentshhh.com/product/shhh-tote-coal-denim/11001016537000186",
     "price": "฿ 1,390.00",
     "sizes": []
   }
