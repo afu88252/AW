@@ -1,14 +1,4 @@
 {
-  "https://www.keepsilentshhh.com/product/least-peace-tank/11001016537000337": {
-    "name": "LEAST PEACE TANK",
-    "url": "https://www.keepsilentshhh.com/product/least-peace-tank/11001016537000337",
-    "price": "฿ 1,190.00",
-    "sizes": [
-      "L",
-      "M",
-      "S"
-    ]
-  },
   "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-blue/11001016537000329": {
     "name": "MELTING GHOST TEE-ICE BLUE",
     "url": "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-blue/11001016537000329",
@@ -383,6 +373,12 @@
     "name": "DOUBLE SIDE BUCKET HAT",
     "url": "https://www.keepsilentshhh.com/product/double-side-bucket-hat/11001016537000271",
     "price": "฿ 1,390.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/night-x-mas-set/11001016537000223": {
+    "name": "NIGHT X-MAS SET",
+    "url": "https://www.keepsilentshhh.com/product/night-x-mas-set/11001016537000223",
+    "price": "฿ 2,690.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/keep-love-tee-daisy/11001016537000118": {
