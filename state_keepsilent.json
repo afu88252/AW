@@ -1,4 +1,14 @@
 {
+  "https://www.keepsilentshhh.com/product/least-peace-tank/11001016537000337": {
+    "name": "LEAST PEACE TANK",
+    "url": "https://www.keepsilentshhh.com/product/least-peace-tank/11001016537000337",
+    "price": "฿ 1,190.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
+  },
   "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-blue/11001016537000329": {
     "name": "MELTING GHOST TEE-ICE BLUE",
     "url": "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-blue/11001016537000329",
@@ -13,6 +23,16 @@
     "name": "TOUGH DAY BAGGY JEANS",
     "url": "https://www.keepsilentshhh.com/product/tough-day-baggy-jeans/11001016537000460",
     "price": "฿ 2,190.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  "https://www.keepsilentshhh.com/product/trail-marker-tee/11001016537000406": {
+    "name": "TRAIL MARKER TEE",
+    "url": "https://www.keepsilentshhh.com/product/trail-marker-tee/11001016537000406",
+    "price": "฿ 1,290.00",
     "sizes": [
       "L",
       "M",
@@ -54,6 +74,12 @@
       "M",
       "S"
     ]
+  },
+  "https://www.keepsilentshhh.com/product/wishless-party-keychain/11001016537000377": {
+    "name": "WISHLESS PARTY KEYCHAIN",
+    "url": "https://www.keepsilentshhh.com/product/wishless-party-keychain/11001016537000377",
+    "price": "฿ 990.00",
+    "sizes": []
   },
   "https://www.keepsilentshhh.com/product/1127-key/11001016537000280": {
     "name": "1127 KEY",
@@ -375,24 +401,6 @@
     "name": "KEEP DACHSHUND",
     "url": "https://www.keepsilentshhh.com/product/keep-dachshund/11001016537000188",
     "price": "฿ 1,290.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/shhh-tote-black-denim/11001016537000187": {
-    "name": "Shhh TOTE Black Denim",
-    "url": "https://www.keepsilentshhh.com/product/shhh-tote-black-denim/11001016537000187",
-    "price": "฿ 1,390.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/shhh-tote-coal-denim/11001016537000186": {
-    "name": "Shhh TOTE Coal Denim",
-    "url": "https://www.keepsilentshhh.com/product/shhh-tote-coal-denim/11001016537000186",
-    "price": "฿ 1,390.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/shhh-rug/11001016537000185": {
-    "name": "Shhh RUG",
-    "url": "https://www.keepsilentshhh.com/product/shhh-rug/11001016537000185",
-    "price": "฿ 2,390.00",
     "sizes": []
   }
 }
