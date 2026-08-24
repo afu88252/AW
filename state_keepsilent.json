@@ -375,12 +375,6 @@
     "price": "฿ 1,390.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/night-x-mas-set/11001016537000223": {
-    "name": "NIGHT X-MAS SET",
-    "url": "https://www.keepsilentshhh.com/product/night-x-mas-set/11001016537000223",
-    "price": "฿ 2,690.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/keep-love-tee-daisy/11001016537000118": {
     "name": "KEEP LOVE TEE - DAISY",
     "url": "https://www.keepsilentshhh.com/product/keep-love-tee-daisy/11001016537000118",
@@ -397,6 +391,12 @@
     "name": "KEEP DACHSHUND",
     "url": "https://www.keepsilentshhh.com/product/keep-dachshund/11001016537000188",
     "price": "฿ 1,290.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/shhh-tote-black-denim/11001016537000187": {
+    "name": "Shhh TOTE Black Denim",
+    "url": "https://www.keepsilentshhh.com/product/shhh-tote-black-denim/11001016537000187",
+    "price": "฿ 1,390.00",
     "sizes": []
   }
 }
