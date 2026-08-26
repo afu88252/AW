@@ -9,16 +9,6 @@
       "S"
     ]
   },
-  "https://www.keepsilentshhh.com/product/tough-day-baggy-jeans/11001016537000460": {
-    "name": "TOUGH DAY BAGGY JEANS",
-    "url": "https://www.keepsilentshhh.com/product/tough-day-baggy-jeans/11001016537000460",
-    "price": "฿ 2,190.00",
-    "sizes": [
-      "L",
-      "M",
-      "S"
-    ]
-  },
   "https://www.keepsilentshhh.com/product/forest-ripstop-shorts/11001016537000418": {
     "name": "FOREST RIPSTOP SHORTS",
     "url": "https://www.keepsilentshhh.com/product/forest-ripstop-shorts/11001016537000418",
@@ -380,7 +370,7 @@
   "https://www.keepsilentshhh.com/product/keep-dachshund/11001016537000188": {
     "name": "KEEP DACHSHUND",
     "url": "https://www.keepsilentshhh.com/product/keep-dachshund/11001016537000188",
-    "price": "฿ 1,290.00",
+    "price": "",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/shhh-tote-black-denim/11001016537000187": {
@@ -393,6 +383,12 @@
     "name": "Shhh TOTE Coal Denim",
     "url": "https://www.keepsilentshhh.com/product/shhh-tote-coal-denim/11001016537000186",
     "price": "฿ 1,390.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/shhh-rug/11001016537000185": {
+    "name": "Shhh RUG",
+    "url": "https://www.keepsilentshhh.com/product/shhh-rug/11001016537000185",
+    "price": "฿ 2,390.00",
     "sizes": []
   }
 }
