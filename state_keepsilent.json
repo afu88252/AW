@@ -45,12 +45,6 @@
       "S"
     ]
   },
-  "https://www.keepsilentshhh.com/product/wishless-party-keychain/11001016537000377": {
-    "name": "WISHLESS PARTY KEYCHAIN",
-    "url": "https://www.keepsilentshhh.com/product/wishless-party-keychain/11001016537000377",
-    "price": "฿ 990.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/1127-key/11001016537000280": {
     "name": "1127 KEY",
     "url": "https://www.keepsilentshhh.com/product/1127-key/11001016537000280",
@@ -150,12 +144,6 @@
       "M",
       "S"
     ]
-  },
-  "https://www.keepsilentshhh.com/product/keep-the-wonder-black-ringer-tee/11001016537000255": {
-    "name": "KEEP THE WONDER BLACK RINGER TEE",
-    "url": "https://www.keepsilentshhh.com/product/keep-the-wonder-black-ringer-tee/11001016537000255",
-    "price": "฿ 1,290.00",
-    "sizes": []
   },
   "https://www.keepsilentshhh.com/product/off-trail-long-sleeve-tee/11001016537000394": {
     "name": "OFF-TRAIL LONG SLEEVE TEE",
@@ -389,6 +377,18 @@
     "name": "Shhh RUG",
     "url": "https://www.keepsilentshhh.com/product/shhh-rug/11001016537000185",
     "price": "฿ 2,390.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/shhh-tote-deep-denim/11001016537000183": {
+    "name": "Shhh TOTE Deep Denim",
+    "url": "https://www.keepsilentshhh.com/product/shhh-tote-deep-denim/11001016537000183",
+    "price": "฿ 1,390.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/keep-love-tee-sunflower/11001016537000128": {
+    "name": "KEEP LOVE TEE - SUNFLOWER",
+    "url": "https://www.keepsilentshhh.com/product/keep-love-tee-sunflower/11001016537000128",
+    "price": "฿ 1,150.00",
     "sizes": []
   }
 }
