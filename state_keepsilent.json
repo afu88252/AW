@@ -21,16 +21,6 @@
       "S"
     ]
   },
-  "https://www.keepsilentshhh.com/product/tough-day-baggy-jeans/11001016537000460": {
-    "name": "TOUGH DAY BAGGY JEANS",
-    "url": "https://www.keepsilentshhh.com/product/tough-day-baggy-jeans/11001016537000460",
-    "price": "฿ 2,190.00",
-    "sizes": [
-      "L",
-      "M",
-      "S"
-    ]
-  },
   "https://www.keepsilentshhh.com/product/forest-ripstop-shorts/11001016537000418": {
     "name": "FOREST RIPSTOP SHORTS",
     "url": "https://www.keepsilentshhh.com/product/forest-ripstop-shorts/11001016537000418",
@@ -99,12 +89,6 @@
     "price": "฿ 1,290.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/night-scarf/11001016537000477": {
-    "name": "NIGHT SCARF",
-    "url": "https://www.keepsilentshhh.com/product/night-scarf/11001016537000477",
-    "price": "฿ 1,290.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/horseshoe-long-sleeve-tee/11001016537000452": {
     "name": "HORSESHOE LONG SLEEVE TEE",
     "url": "https://www.keepsilentshhh.com/product/horseshoe-long-sleeve-tee/11001016537000452",
@@ -154,12 +138,6 @@
       "M",
       "S"
     ]
-  },
-  "https://www.keepsilentshhh.com/product/keep-the-wonder-black-ringer-tee/11001016537000255": {
-    "name": "KEEP THE WONDER BLACK RINGER TEE",
-    "url": "https://www.keepsilentshhh.com/product/keep-the-wonder-black-ringer-tee/11001016537000255",
-    "price": "฿ 1,290.00",
-    "sizes": []
   },
   "https://www.keepsilentshhh.com/product/off-trail-long-sleeve-tee/11001016537000394": {
     "name": "OFF-TRAIL LONG SLEEVE TEE",
@@ -267,12 +245,6 @@
     "name": "KEEP BOOBOO",
     "url": "https://www.keepsilentshhh.com/product/keep-booboo/11001016537000203",
     "price": "฿ 1,290.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/logo-rug/11001016537000148": {
-    "name": "LOGO RUG",
-    "url": "https://www.keepsilentshhh.com/product/logo-rug/11001016537000148",
-    "price": "฿ 2,390.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/night-check-hawaii-shirt/11001016537000317": {
@@ -393,6 +365,34 @@
     "name": "Shhh RUG",
     "url": "https://www.keepsilentshhh.com/product/shhh-rug/11001016537000185",
     "price": "฿ 2,390.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/shhh-tote-deep-denim/11001016537000183": {
+    "name": "Shhh TOTE Deep Denim",
+    "url": "https://www.keepsilentshhh.com/product/shhh-tote-deep-denim/11001016537000183",
+    "price": "฿ 1,390.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/keep-love-tee-sunflower/11001016537000128": {
+    "name": "KEEP LOVE TEE - SUNFLOWER",
+    "url": "https://www.keepsilentshhh.com/product/keep-love-tee-sunflower/11001016537000128",
+    "price": "฿ 1,150.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/nest-oversized-crop-raglan-tee/11001016537000513": {
+    "name": "NEST OVERSIZED CROP RAGLAN TEE",
+    "url": "https://www.keepsilentshhh.com/product/nest-oversized-crop-raglan-tee/11001016537000513",
+    "price": "฿ 1,290.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  "https://www.keepsilentshhh.com/product/permanent-dream-collection-full-set/11001016537000547": {
+    "name": "PERMANENT DREAM COLLECTION FULL SET",
+    "url": "https://www.keepsilentshhh.com/product/permanent-dream-collection-full-set/11001016537000547",
+    "price": "฿ 17,820.00",
     "sizes": []
   }
 }
