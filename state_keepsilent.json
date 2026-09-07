@@ -65,6 +65,16 @@
       "S"
     ]
   },
+  "https://www.keepsilentshhh.com/product/keep-close-rugby-sweater/11001016537000514": {
+    "name": "KEEP CLOSE RUGBY SWEATER",
+    "url": "https://www.keepsilentshhh.com/product/keep-close-rugby-sweater/11001016537000514",
+    "price": "฿ 1,590.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
+  },
   "https://www.keepsilentshhh.com/product/bu-oversized-crop-raglan-tee/11001016537000509": {
     "name": "BU OVERSIZED CROP RAGLAN TEE",
     "url": "https://www.keepsilentshhh.com/product/bu-oversized-crop-raglan-tee/11001016537000509",
@@ -194,6 +204,12 @@
   "https://www.keepsilentshhh.com/product/noon-scarf/11001016537000478": {
     "name": "NOON SCARF",
     "url": "https://www.keepsilentshhh.com/product/noon-scarf/11001016537000478",
+    "price": "฿ 1,290.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/night-scarf/11001016537000477": {
+    "name": "NIGHT SCARF",
+    "url": "https://www.keepsilentshhh.com/product/night-scarf/11001016537000477",
     "price": "฿ 1,290.00",
     "sizes": []
   },
@@ -469,18 +485,6 @@
     "name": "Shhh TOTE Deep Denim",
     "url": "https://www.keepsilentshhh.com/product/shhh-tote-deep-denim/11001016537000183",
     "price": "฿ 1,390.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/keep-love-tee-sunflower/11001016537000128": {
-    "name": "KEEP LOVE TEE - SUNFLOWER",
-    "url": "https://www.keepsilentshhh.com/product/keep-love-tee-sunflower/11001016537000128",
-    "price": "฿ 1,150.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546": {
-    "name": "FEATHER SOCKS",
-    "url": "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546",
-    "price": "฿ 350.00",
     "sizes": []
   }
 }
