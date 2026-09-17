@@ -36,7 +36,7 @@
   "https://www.keepsilentshhh.com/product/fallen-feather-set/11001016537000538": {
     "name": "FALLEN FEATHER SET",
     "url": "https://www.keepsilentshhh.com/product/fallen-feather-set/11001016537000538",
-    "price": "฿ 4,320.00",
+    "price": "",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/bu-bu-memories-sets/11001016537000534": {
@@ -59,6 +59,16 @@
     "name": "KEEP CLOSE SHORTS",
     "url": "https://www.keepsilentshhh.com/product/keep-close-shorts/11001016537000522",
     "price": "฿ 1,190.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  "https://www.keepsilentshhh.com/product/keep-close-rugby-sweater/11001016537000514": {
+    "name": "KEEP CLOSE RUGBY SWEATER",
+    "url": "https://www.keepsilentshhh.com/product/keep-close-rugby-sweater/11001016537000514",
+    "price": "฿ 1,590.00",
     "sizes": [
       "L",
       "M",
@@ -475,12 +485,6 @@
     "name": "Shhh TOTE Deep Denim",
     "url": "https://www.keepsilentshhh.com/product/shhh-tote-deep-denim/11001016537000183",
     "price": "฿ 1,390.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/keep-love-tee-sunflower/11001016537000128": {
-    "name": "KEEP LOVE TEE - SUNFLOWER",
-    "url": "https://www.keepsilentshhh.com/product/keep-love-tee-sunflower/11001016537000128",
-    "price": "฿ 1,150.00",
     "sizes": []
   }
 }
