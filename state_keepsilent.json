@@ -45,12 +45,6 @@
     "price": "฿ 4,020.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531": {
-    "name": "DUSTY SKY BLUE SOCKS",
-    "url": "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531",
-    "price": "฿ 350.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/memory-rugby-shorts/11001016537000526": {
     "name": "MEMORY RUGBY SHORTS",
     "url": "https://www.keepsilentshhh.com/product/memory-rugby-shorts/11001016537000526",
@@ -485,6 +479,12 @@
     "name": "Shhh RUG",
     "url": "https://www.keepsilentshhh.com/product/shhh-rug/11001016537000185",
     "price": "฿ 2,390.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/shhh-tote-deep-denim/11001016537000183": {
+    "name": "Shhh TOTE Deep Denim",
+    "url": "https://www.keepsilentshhh.com/product/shhh-tote-deep-denim/11001016537000183",
+    "price": "฿ 1,390.00",
     "sizes": []
   }
 }
