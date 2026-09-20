@@ -213,6 +213,16 @@
     "price": "฿ 1,290.00",
     "sizes": []
   },
+  "https://www.keepsilentshhh.com/product/horseshoe-long-sleeve-tee/11001016537000452": {
+    "name": "HORSESHOE LONG SLEEVE TEE",
+    "url": "https://www.keepsilentshhh.com/product/horseshoe-long-sleeve-tee/11001016537000452",
+    "price": "฿ 1,590.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
+  },
   "https://www.keepsilentshhh.com/product/own-rule-ringer-tee/11001016537000473": {
     "name": "OWN RULE RINGER TEE",
     "url": "https://www.keepsilentshhh.com/product/own-rule-ringer-tee/11001016537000473",
@@ -252,6 +262,12 @@
       "M",
       "S"
     ]
+  },
+  "https://www.keepsilentshhh.com/product/keep-the-wonder-black-ringer-tee/11001016537000255": {
+    "name": "KEEP THE WONDER BLACK RINGER TEE",
+    "url": "https://www.keepsilentshhh.com/product/keep-the-wonder-black-ringer-tee/11001016537000255",
+    "price": "฿ 1,290.00",
+    "sizes": []
   },
   "https://www.keepsilentshhh.com/product/off-trail-long-sleeve-tee/11001016537000394": {
     "name": "OFF-TRAIL LONG SLEEVE TEE",
@@ -361,6 +377,12 @@
     "price": "฿ 1,290.00",
     "sizes": []
   },
+  "https://www.keepsilentshhh.com/product/logo-rug/11001016537000148": {
+    "name": "LOGO RUG",
+    "url": "https://www.keepsilentshhh.com/product/logo-rug/11001016537000148",
+    "price": "฿ 2,390.00",
+    "sizes": []
+  },
   "https://www.keepsilentshhh.com/product/night-check-hawaii-shirt/11001016537000317": {
     "name": "NIGHT CHECK HAWAII SHIRT",
     "url": "https://www.keepsilentshhh.com/product/night-check-hawaii-shirt/11001016537000317",
@@ -466,24 +488,6 @@
   "https://www.keepsilentshhh.com/product/shhh-tote-black-denim/11001016537000187": {
     "name": "Shhh TOTE Black Denim",
     "url": "https://www.keepsilentshhh.com/product/shhh-tote-black-denim/11001016537000187",
-    "price": "฿ 1,390.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/shhh-tote-coal-denim/11001016537000186": {
-    "name": "Shhh TOTE Coal Denim",
-    "url": "https://www.keepsilentshhh.com/product/shhh-tote-coal-denim/11001016537000186",
-    "price": "฿ 1,390.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/shhh-rug/11001016537000185": {
-    "name": "Shhh RUG",
-    "url": "https://www.keepsilentshhh.com/product/shhh-rug/11001016537000185",
-    "price": "฿ 2,390.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/shhh-tote-deep-denim/11001016537000183": {
-    "name": "Shhh TOTE Deep Denim",
-    "url": "https://www.keepsilentshhh.com/product/shhh-tote-deep-denim/11001016537000183",
     "price": "฿ 1,390.00",
     "sizes": []
   }
