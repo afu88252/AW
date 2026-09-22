@@ -157,12 +157,6 @@
       "S"
     ]
   },
-  "https://www.keepsilentshhh.com/product/1127-key/11001016537000280": {
-    "name": "1127 KEY",
-    "url": "https://www.keepsilentshhh.com/product/1127-key/11001016537000280",
-    "price": "฿ 990.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/27-tee/11001016537000354": {
     "name": "27 TEE",
     "url": "https://www.keepsilentshhh.com/product/27-tee/11001016537000354",
@@ -189,25 +183,9 @@
     "price": "฿ 1,290.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/night-scarf/11001016537000477": {
-    "name": "NIGHT SCARF",
-    "url": "https://www.keepsilentshhh.com/product/night-scarf/11001016537000477",
-    "price": "฿ 1,290.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/own-rule-ringer-tee/11001016537000473": {
     "name": "OWN RULE RINGER TEE",
     "url": "https://www.keepsilentshhh.com/product/own-rule-ringer-tee/11001016537000473",
-    "price": "฿ 1,290.00",
-    "sizes": [
-      "L",
-      "M",
-      "S"
-    ]
-  },
-  "https://www.keepsilentshhh.com/product/ks-fence-ringer-tee/11001016537000469": {
-    "name": "KS FENCE RINGER TEE",
-    "url": "https://www.keepsilentshhh.com/product/ks-fence-ringer-tee/11001016537000469",
     "price": "฿ 1,290.00",
     "sizes": [
       "L",
@@ -238,7 +216,7 @@
   "https://www.keepsilentshhh.com/product/keep-the-wonder-black-ringer-tee/11001016537000255": {
     "name": "KEEP THE WONDER BLACK RINGER TEE",
     "url": "https://www.keepsilentshhh.com/product/keep-the-wonder-black-ringer-tee/11001016537000255",
-    "price": "฿ 1,290.00",
+    "price": "",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/off-trail-long-sleeve-tee/11001016537000394": {
@@ -386,7 +364,7 @@
   "https://www.keepsilentshhh.com/product/half-half-tank-top/11001016537000289": {
     "name": "HALF & HALF TANK TOP",
     "url": "https://www.keepsilentshhh.com/product/half-half-tank-top/11001016537000289",
-    "price": "",
+    "price": "฿ 990.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/keep-the-wonder-black-sweater/11001016537000251": {
@@ -418,6 +396,12 @@
   "https://www.keepsilentshhh.com/product/hide-the-sun-bucket-denim/11001016537000314": {
     "name": "HIDE THE SUN BUCKET-DENIM",
     "url": "https://www.keepsilentshhh.com/product/hide-the-sun-bucket-denim/11001016537000314",
+    "price": "฿ 1,390.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/hide-the-sun-bucket-black/11001016537000313": {
+    "name": "HIDE THE SUN BUCKET-BLACK",
+    "url": "https://www.keepsilentshhh.com/product/hide-the-sun-bucket-black/11001016537000313",
     "price": "฿ 1,390.00",
     "sizes": []
   },
