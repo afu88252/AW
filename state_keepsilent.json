@@ -24,7 +24,7 @@
   "https://www.keepsilentshhh.com/product/permanent-dream-collection-full-set/11001016537000547": {
     "name": "PERMANENT DREAM COLLECTION FULL SET",
     "url": "https://www.keepsilentshhh.com/product/permanent-dream-collection-full-set/11001016537000547",
-    "price": "฿ 17,820.00",
+    "price": "",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/memory-rugby-shorts/11001016537000526": {
@@ -183,18 +183,6 @@
       "S"
     ]
   },
-  "https://www.keepsilentshhh.com/product/noon-scarf/11001016537000478": {
-    "name": "NOON SCARF",
-    "url": "https://www.keepsilentshhh.com/product/noon-scarf/11001016537000478",
-    "price": "฿ 1,290.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/night-scarf/11001016537000477": {
-    "name": "NIGHT SCARF",
-    "url": "https://www.keepsilentshhh.com/product/night-scarf/11001016537000477",
-    "price": "฿ 1,290.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/own-rule-ringer-tee/11001016537000473": {
     "name": "OWN RULE RINGER TEE",
     "url": "https://www.keepsilentshhh.com/product/own-rule-ringer-tee/11001016537000473",
@@ -234,6 +222,12 @@
       "M",
       "S"
     ]
+  },
+  "https://www.keepsilentshhh.com/product/keep-the-wonder-black-ringer-tee/11001016537000255": {
+    "name": "KEEP THE WONDER BLACK RINGER TEE",
+    "url": "https://www.keepsilentshhh.com/product/keep-the-wonder-black-ringer-tee/11001016537000255",
+    "price": "",
+    "sizes": []
   },
   "https://www.keepsilentshhh.com/product/off-trail-long-sleeve-tee/11001016537000394": {
     "name": "OFF-TRAIL LONG SLEEVE TEE",
@@ -350,7 +344,7 @@
   "https://www.keepsilentshhh.com/product/keep-snowman-ruby/11001016537000213": {
     "name": "KEEP SNOWMAN RUBY",
     "url": "https://www.keepsilentshhh.com/product/keep-snowman-ruby/11001016537000213",
-    "price": "",
+    "price": "฿ 1,290.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/keep-snowman-eggshell/11001016537000208": {
@@ -433,22 +427,10 @@
     "price": "฿ 1,390.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/shhh-tote-coal-denim/11001016537000186": {
-    "name": "Shhh TOTE Coal Denim",
-    "url": "https://www.keepsilentshhh.com/product/shhh-tote-coal-denim/11001016537000186",
-    "price": "฿ 1,390.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/shhh-rug/11001016537000185": {
     "name": "Shhh RUG",
     "url": "https://www.keepsilentshhh.com/product/shhh-rug/11001016537000185",
     "price": "฿ 2,390.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/shhh-tote-deep-denim/11001016537000183": {
-    "name": "Shhh TOTE Deep Denim",
-    "url": "https://www.keepsilentshhh.com/product/shhh-tote-deep-denim/11001016537000183",
-    "price": "฿ 1,390.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/shhh-dune-cap/11001016537000145": {
@@ -485,6 +467,24 @@
     "name": "HOLD CLOSE BLANKET",
     "url": "https://www.keepsilentshhh.com/product/hold-close-blanket/11001016537000533",
     "price": "฿ 1,290.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/memory-hug-blanket/11001016537000532": {
+    "name": "MEMORY HUG BLANKET",
+    "url": "https://www.keepsilentshhh.com/product/memory-hug-blanket/11001016537000532",
+    "price": "฿ 1,290.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531": {
+    "name": "DUSTY SKY BLUE SOCKS",
+    "url": "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531",
+    "price": "฿ 350.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/nest-socks/11001016537000530": {
+    "name": "NEST SOCKS",
+    "url": "https://www.keepsilentshhh.com/product/nest-socks/11001016537000530",
+    "price": "฿ 350.00",
     "sizes": []
   }
 }
