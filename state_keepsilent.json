@@ -21,18 +21,6 @@
       "S"
     ]
   },
-  "https://www.keepsilentshhh.com/product/permanent-dream-collection-full-set/11001016537000547": {
-    "name": "PERMANENT DREAM COLLECTION FULL SET",
-    "url": "https://www.keepsilentshhh.com/product/permanent-dream-collection-full-set/11001016537000547",
-    "price": "฿ 17,820.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531": {
-    "name": "DUSTY SKY BLUE SOCKS",
-    "url": "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531",
-    "price": "฿ 350.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/memory-rugby-shorts/11001016537000526": {
     "name": "MEMORY RUGBY SHORTS",
     "url": "https://www.keepsilentshhh.com/product/memory-rugby-shorts/11001016537000526",
@@ -435,6 +423,12 @@
     "price": "฿ 1,290.00",
     "sizes": []
   },
+  "https://www.keepsilentshhh.com/product/permanent-dream-collection-full-set/11001016537000547": {
+    "name": "PERMANENT DREAM COLLECTION FULL SET",
+    "url": "https://www.keepsilentshhh.com/product/permanent-dream-collection-full-set/11001016537000547",
+    "price": "฿ 17,820.00",
+    "sizes": []
+  },
   "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546": {
     "name": "FEATHER SOCKS",
     "url": "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546",
@@ -469,6 +463,12 @@
     "name": "MEMORY HUG BLANKET",
     "url": "https://www.keepsilentshhh.com/product/memory-hug-blanket/11001016537000532",
     "price": "฿ 1,290.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531": {
+    "name": "DUSTY SKY BLUE SOCKS",
+    "url": "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531",
+    "price": "฿ 350.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/nest-socks/11001016537000530": {
