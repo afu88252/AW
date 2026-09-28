@@ -213,12 +213,6 @@
       "S"
     ]
   },
-  "https://www.keepsilentshhh.com/product/keep-the-wonder-black-ringer-tee/11001016537000255": {
-    "name": "KEEP THE WONDER BLACK RINGER TEE",
-    "url": "https://www.keepsilentshhh.com/product/keep-the-wonder-black-ringer-tee/11001016537000255",
-    "price": "฿ 1,290.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/off-trail-long-sleeve-tee/11001016537000394": {
     "name": "OFF-TRAIL LONG SLEEVE TEE",
     "url": "https://www.keepsilentshhh.com/product/off-trail-long-sleeve-tee/11001016537000394",
@@ -480,6 +474,16 @@
   "https://www.keepsilentshhh.com/product/memory-rugby-sweater/11001016537000518": {
     "name": "MEMORY RUGBY SWEATER",
     "url": "https://www.keepsilentshhh.com/product/memory-rugby-sweater/11001016537000518",
+    "price": "฿ 1,590.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  "https://www.keepsilentshhh.com/product/keep-close-rugby-sweater/11001016537000514": {
+    "name": "KEEP CLOSE RUGBY SWEATER",
+    "url": "https://www.keepsilentshhh.com/product/keep-close-rugby-sweater/11001016537000514",
     "price": "฿ 1,590.00",
     "sizes": [
       "L",
