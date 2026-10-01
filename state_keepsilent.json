@@ -274,7 +274,7 @@
   "https://www.keepsilentshhh.com/product/my-birthday-cake-tee/11001016537000362": {
     "name": "MY BIRTHDAY CAKE TEE",
     "url": "https://www.keepsilentshhh.com/product/my-birthday-cake-tee/11001016537000362",
-    "price": "",
+    "price": "฿ 1,290.00",
     "sizes": [
       "L",
       "M",
@@ -457,6 +457,12 @@
     "name": "MEMORY HUG BLANKET",
     "url": "https://www.keepsilentshhh.com/product/memory-hug-blanket/11001016537000532",
     "price": "฿ 1,290.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531": {
+    "name": "DUSTY SKY BLUE SOCKS",
+    "url": "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531",
+    "price": "฿ 350.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/nest-socks/11001016537000530": {
