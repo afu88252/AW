@@ -21,6 +21,18 @@
       "S"
     ]
   },
+  "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546": {
+    "name": "FEATHER SOCKS",
+    "url": "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546",
+    "price": "฿ 350.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531": {
+    "name": "DUSTY SKY BLUE SOCKS",
+    "url": "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531",
+    "price": "฿ 350.00",
+    "sizes": []
+  },
   "https://www.keepsilentshhh.com/product/memory-rugby-shorts/11001016537000526": {
     "name": "MEMORY RUGBY SHORTS",
     "url": "https://www.keepsilentshhh.com/product/memory-rugby-shorts/11001016537000526",
@@ -160,7 +172,7 @@
   "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-cream/11001016537000333": {
     "name": "MELTING GHOST TEE-ICE CREAM",
     "url": "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-cream/11001016537000333",
-    "price": "",
+    "price": "฿ 1,290.00",
     "sizes": [
       "L",
       "M",
@@ -453,12 +465,6 @@
     "price": "฿ 17,820.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546": {
-    "name": "FEATHER SOCKS",
-    "url": "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546",
-    "price": "฿ 350.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/midnight-star/11001016537000542": {
     "name": "MIDNIGHT STAR",
     "url": "https://www.keepsilentshhh.com/product/midnight-star/11001016537000542",
@@ -475,12 +481,6 @@
     "name": "BU BU MEMORIES SETS",
     "url": "https://www.keepsilentshhh.com/product/bu-bu-memories-sets/11001016537000534",
     "price": "฿ 4,020.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/hold-close-blanket/11001016537000533": {
-    "name": "HOLD CLOSE BLANKET",
-    "url": "https://www.keepsilentshhh.com/product/hold-close-blanket/11001016537000533",
-    "price": "฿ 1,290.00",
     "sizes": []
   }
 }
