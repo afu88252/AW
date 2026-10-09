@@ -21,12 +21,6 @@
       "S"
     ]
   },
-  "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546": {
-    "name": "FEATHER SOCKS",
-    "url": "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546",
-    "price": "฿ 350.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531": {
     "name": "DUSTY SKY BLUE SOCKS",
     "url": "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531",
@@ -36,7 +30,7 @@
   "https://www.keepsilentshhh.com/product/memory-rugby-shorts/11001016537000526": {
     "name": "MEMORY RUGBY SHORTS",
     "url": "https://www.keepsilentshhh.com/product/memory-rugby-shorts/11001016537000526",
-    "price": "฿ 1,190.00",
+    "price": "",
     "sizes": [
       "L",
       "M",
@@ -146,7 +140,7 @@
   "https://www.keepsilentshhh.com/product/party-leftovers-tee/11001016537000358": {
     "name": "PARTY LEFTOVERS TEE",
     "url": "https://www.keepsilentshhh.com/product/party-leftovers-tee/11001016537000358",
-    "price": "฿ 1,290.00",
+    "price": "",
     "sizes": [
       "L",
       "M",
@@ -333,6 +327,12 @@
     "price": "฿ 1,290.00",
     "sizes": []
   },
+  "https://www.keepsilentshhh.com/product/keep-booboo/11001016537000203": {
+    "name": "KEEP BOOBOO",
+    "url": "https://www.keepsilentshhh.com/product/keep-booboo/11001016537000203",
+    "price": "฿ 1,290.00",
+    "sizes": []
+  },
   "https://www.keepsilentshhh.com/product/logo-rug/11001016537000148": {
     "name": "LOGO RUG",
     "url": "https://www.keepsilentshhh.com/product/logo-rug/11001016537000148",
@@ -417,6 +417,12 @@
     "price": "฿ 1,390.00",
     "sizes": []
   },
+  "https://www.keepsilentshhh.com/product/keep-love-tee-daisy/11001016537000118": {
+    "name": "KEEP LOVE TEE - DAISY",
+    "url": "https://www.keepsilentshhh.com/product/keep-love-tee-daisy/11001016537000118",
+    "price": "฿ 1,150.00",
+    "sizes": []
+  },
   "https://www.keepsilentshhh.com/product/keep-snowman-indigo/11001016537000218": {
     "name": "KEEP SNOWMAN INDIGO",
     "url": "https://www.keepsilentshhh.com/product/keep-snowman-indigo/11001016537000218",
@@ -453,6 +459,12 @@
     "price": "฿ 1,390.00",
     "sizes": []
   },
+  "https://www.keepsilentshhh.com/product/keep-love-tee-sunflower/11001016537000128": {
+    "name": "KEEP LOVE TEE - SUNFLOWER",
+    "url": "https://www.keepsilentshhh.com/product/keep-love-tee-sunflower/11001016537000128",
+    "price": "฿ 1,150.00",
+    "sizes": []
+  },
   "https://www.keepsilentshhh.com/product/shhh-dune-cap/11001016537000145": {
     "name": "Shhh DUNE CAP",
     "url": "https://www.keepsilentshhh.com/product/shhh-dune-cap/11001016537000145",
@@ -465,22 +477,10 @@
     "price": "฿ 17,820.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/midnight-star/11001016537000542": {
-    "name": "MIDNIGHT STAR",
-    "url": "https://www.keepsilentshhh.com/product/midnight-star/11001016537000542",
-    "price": "฿ 4,020.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/fallen-feather-set/11001016537000538": {
-    "name": "FALLEN FEATHER SET",
-    "url": "https://www.keepsilentshhh.com/product/fallen-feather-set/11001016537000538",
-    "price": "฿ 4,320.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/bu-bu-memories-sets/11001016537000534": {
-    "name": "BU BU MEMORIES SETS",
-    "url": "https://www.keepsilentshhh.com/product/bu-bu-memories-sets/11001016537000534",
-    "price": "฿ 4,020.00",
+  "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546": {
+    "name": "FEATHER SOCKS",
+    "url": "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546",
+    "price": "฿ 350.00",
     "sizes": []
   }
 }
