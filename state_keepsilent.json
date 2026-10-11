@@ -333,12 +333,6 @@
     "price": "฿ 1,290.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/night-check-cap/11001016537000311": {
-    "name": "NIGHT CHECK CAP",
-    "url": "https://www.keepsilentshhh.com/product/night-check-cap/11001016537000311",
-    "price": "฿ 1,390.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/logo-rug/11001016537000148": {
     "name": "LOGO RUG",
     "url": "https://www.keepsilentshhh.com/product/logo-rug/11001016537000148",
@@ -481,6 +475,12 @@
     "name": "PERMANENT DREAM COLLECTION FULL SET",
     "url": "https://www.keepsilentshhh.com/product/permanent-dream-collection-full-set/11001016537000547",
     "price": "฿ 17,820.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546": {
+    "name": "FEATHER SOCKS",
+    "url": "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546",
+    "price": "฿ 350.00",
     "sizes": []
   }
 }
