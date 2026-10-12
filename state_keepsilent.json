@@ -21,12 +21,6 @@
       "S"
     ]
   },
-  "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531": {
-    "name": "DUSTY SKY BLUE SOCKS",
-    "url": "https://www.keepsilentshhh.com/product/dusty-sky-blue-socks/11001016537000531",
-    "price": "฿ 350.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/memory-rugby-shorts/11001016537000526": {
     "name": "MEMORY RUGBY SHORTS",
     "url": "https://www.keepsilentshhh.com/product/memory-rugby-shorts/11001016537000526",
@@ -130,7 +124,7 @@
   "https://www.keepsilentshhh.com/product/dust-check-hawaii-shirt/11001016537000321": {
     "name": "DUST CHECK HAWAII SHIRT",
     "url": "https://www.keepsilentshhh.com/product/dust-check-hawaii-shirt/11001016537000321",
-    "price": "",
+    "price": "฿ 1,890.00",
     "sizes": [
       "L",
       "M",
@@ -156,7 +150,7 @@
   "https://www.keepsilentshhh.com/product/27-tee/11001016537000354": {
     "name": "27 TEE",
     "url": "https://www.keepsilentshhh.com/product/27-tee/11001016537000354",
-    "price": "",
+    "price": "฿ 1,290.00",
     "sizes": [
       "L",
       "M",
@@ -166,7 +160,7 @@
   "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-cream/11001016537000333": {
     "name": "MELTING GHOST TEE-ICE CREAM",
     "url": "https://www.keepsilentshhh.com/product/melting-ghost-tee-ice-cream/11001016537000333",
-    "price": "",
+    "price": "฿ 1,290.00",
     "sizes": [
       "L",
       "M",
@@ -481,6 +475,12 @@
     "name": "FEATHER SOCKS",
     "url": "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546",
     "price": "฿ 350.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/midnight-star/11001016537000542": {
+    "name": "MIDNIGHT STAR",
+    "url": "https://www.keepsilentshhh.com/product/midnight-star/11001016537000542",
+    "price": "฿ 4,020.00",
     "sizes": []
   }
 }
