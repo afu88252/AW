@@ -105,12 +105,6 @@
       "S"
     ]
   },
-  "https://www.keepsilentshhh.com/product/earth-socks/11001016537000427": {
-    "name": "EARTH SOCKS",
-    "url": "https://www.keepsilentshhh.com/product/earth-socks/11001016537000427",
-    "price": "฿ 350.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/forest-ripstop-shorts/11001016537000418": {
     "name": "FOREST RIPSTOP SHORTS",
     "url": "https://www.keepsilentshhh.com/product/forest-ripstop-shorts/11001016537000418",
@@ -245,12 +239,6 @@
       "S"
     ]
   },
-  "https://www.keepsilentshhh.com/product/dusk-socks/11001016537000426": {
-    "name": "DUSK SOCKS",
-    "url": "https://www.keepsilentshhh.com/product/dusk-socks/11001016537000426",
-    "price": "฿ 350.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/keep-the-wonder-black-sweatpants/11001016537000267": {
     "name": "KEEP THE WONDER BLACK SWEATPANTS",
     "url": "https://www.keepsilentshhh.com/product/keep-the-wonder-black-sweatpants/11001016537000267",
@@ -382,7 +370,7 @@
   "https://www.keepsilentshhh.com/product/half-half-tank-top/11001016537000289": {
     "name": "HALF & HALF TANK TOP",
     "url": "https://www.keepsilentshhh.com/product/half-half-tank-top/11001016537000289",
-    "price": "",
+    "price": "฿ 990.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/keep-the-wonder-black-sweater/11001016537000251": {
@@ -481,6 +469,18 @@
     "name": "Shhh DUNE CAP",
     "url": "https://www.keepsilentshhh.com/product/shhh-dune-cap/11001016537000145",
     "price": "฿ 1,290.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/permanent-dream-collection-full-set/11001016537000547": {
+    "name": "PERMANENT DREAM COLLECTION FULL SET",
+    "url": "https://www.keepsilentshhh.com/product/permanent-dream-collection-full-set/11001016537000547",
+    "price": "฿ 17,820.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546": {
+    "name": "FEATHER SOCKS",
+    "url": "https://www.keepsilentshhh.com/product/feather-socks/11001016537000546",
+    "price": "฿ 350.00",
     "sizes": []
   }
 }
