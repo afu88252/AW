@@ -54,7 +54,7 @@
   "https://www.keepsilentshhh.com/product/feather-oversized-crop-raglan-tee/11001016537000505": {
     "name": "FEATHER OVERSIZED CROP RAGLAN TEE",
     "url": "https://www.keepsilentshhh.com/product/feather-oversized-crop-raglan-tee/11001016537000505",
-    "price": "",
+    "price": "฿ 1,290.00",
     "sizes": [
       "L",
       "M",
@@ -303,12 +303,6 @@
       "S"
     ]
   },
-  "https://www.keepsilentshhh.com/product/keep-juad/11001016537000193": {
-    "name": "KEEP JUAD",
-    "url": "https://www.keepsilentshhh.com/product/keep-juad/11001016537000193",
-    "price": "฿ 1,290.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/keep-uni/11001016537000198": {
     "name": "KEEP UNI",
     "url": "https://www.keepsilentshhh.com/product/keep-uni/11001016537000198",
@@ -336,18 +330,6 @@
       "M",
       "S"
     ]
-  },
-  "https://www.keepsilentshhh.com/product/keep-snowman-ruby/11001016537000213": {
-    "name": "KEEP SNOWMAN RUBY",
-    "url": "https://www.keepsilentshhh.com/product/keep-snowman-ruby/11001016537000213",
-    "price": "฿ 1,290.00",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/keep-snowman-eggshell/11001016537000208": {
-    "name": "KEEP SNOWMAN EGGSHELL",
-    "url": "https://www.keepsilentshhh.com/product/keep-snowman-eggshell/11001016537000208",
-    "price": "฿ 1,290.00",
-    "sizes": []
   },
   "https://www.keepsilentshhh.com/product/keep-the-wonder-white-tee/11001016537000276": {
     "name": "KEEP THE WONDER WHITE TEE",
@@ -411,18 +393,6 @@
     "price": "฿ 1,150.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/keep-snowman-indigo/11001016537000218": {
-    "name": "KEEP SNOWMAN INDIGO",
-    "url": "https://www.keepsilentshhh.com/product/keep-snowman-indigo/11001016537000218",
-    "price": "",
-    "sizes": []
-  },
-  "https://www.keepsilentshhh.com/product/keep-dachshund/11001016537000188": {
-    "name": "KEEP DACHSHUND",
-    "url": "https://www.keepsilentshhh.com/product/keep-dachshund/11001016537000188",
-    "price": "฿ 1,290.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/shhh-tote-black-denim/11001016537000187": {
     "name": "Shhh TOTE Black Denim",
     "url": "https://www.keepsilentshhh.com/product/shhh-tote-black-denim/11001016537000187",
@@ -482,5 +452,43 @@
     "url": "https://www.keepsilentshhh.com/product/league-stripe-socks/11001016537000585",
     "price": "฿ 390.00",
     "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/clubhouse-socks/11001016537000584": {
+    "name": "CLUBHOUSE SOCKS",
+    "url": "https://www.keepsilentshhh.com/product/clubhouse-socks/11001016537000584",
+    "price": "฿ 390.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/athletic-cap/11001016537000583": {
+    "name": "ATHLETIC CAP",
+    "url": "https://www.keepsilentshhh.com/product/athletic-cap/11001016537000583",
+    "price": "฿ 1,290.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/home-team-cap/11001016537000582": {
+    "name": "HOME TEAM CAP",
+    "url": "https://www.keepsilentshhh.com/product/home-team-cap/11001016537000582",
+    "price": "฿ 1,290.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/ks-recreation-club-tee/11001016537000578": {
+    "name": "KS RECREATION CLUB TEE",
+    "url": "https://www.keepsilentshhh.com/product/ks-recreation-club-tee/11001016537000578",
+    "price": "฿ 1,290.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  "https://www.keepsilentshhh.com/product/warm-up-tee/11001016537000574": {
+    "name": "WARM-UP TEE",
+    "url": "https://www.keepsilentshhh.com/product/warm-up-tee/11001016537000574",
+    "price": "฿ 1,290.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   }
 }
