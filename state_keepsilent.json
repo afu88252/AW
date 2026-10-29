@@ -423,6 +423,24 @@
     "price": "฿ 1,150.00",
     "sizes": []
   },
+  "https://www.keepsilentshhh.com/product/it-kid/11001016537000598": {
+    "name": "IT KID",
+    "url": "https://www.keepsilentshhh.com/product/it-kid/11001016537000598",
+    "price": "฿ 4,270.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/the-socialite/11001016537000594": {
+    "name": "THE SOCIALITE",
+    "url": "https://www.keepsilentshhh.com/product/the-socialite/11001016537000594",
+    "price": "฿ 3,960.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/club-captain/11001016537000590": {
+    "name": "CLUB CAPTAIN",
+    "url": "https://www.keepsilentshhh.com/product/club-captain/11001016537000590",
+    "price": "฿ 5,660.00",
+    "sizes": []
+  },
   "https://www.keepsilentshhh.com/product/clubhouse-blanket/11001016537000589": {
     "name": "CLUBHOUSE BLANKET",
     "url": "https://www.keepsilentshhh.com/product/clubhouse-blanket/11001016537000589",
@@ -485,6 +503,56 @@
     "name": "WARM-UP TEE",
     "url": "https://www.keepsilentshhh.com/product/warm-up-tee/11001016537000574",
     "price": "฿ 1,290.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  "https://www.keepsilentshhh.com/product/original-batch-long-sleeve-tee/11001016537000570": {
+    "name": "ORIGINAL BATCH LONG SLEEVE TEE",
+    "url": "https://www.keepsilentshhh.com/product/original-batch-long-sleeve-tee/11001016537000570",
+    "price": "฿ 1,690.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  "https://www.keepsilentshhh.com/product/recreation-league-long-sleeve-tee/11001016537000566": {
+    "name": "RECREATION LEAGUE LONG SLEEVE TEE",
+    "url": "https://www.keepsilentshhh.com/product/recreation-league-long-sleeve-tee/11001016537000566",
+    "price": "฿ 1,690.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  "https://www.keepsilentshhh.com/product/members-only-tee/11001016537000562": {
+    "name": "MEMBERS ONLY TEE",
+    "url": "https://www.keepsilentshhh.com/product/members-only-tee/11001016537000562",
+    "price": "฿ 1,290.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  "https://www.keepsilentshhh.com/product/recreation-rugby-set/11001016537000558": {
+    "name": "RECREATION RUGBY SET",
+    "url": "https://www.keepsilentshhh.com/product/recreation-rugby-set/11001016537000558",
+    "price": "฿ 2,190.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  "https://www.keepsilentshhh.com/product/clubhouse-bomber-jacket/11001016537000554": {
+    "name": "CLUBHOUSE BOMBER JACKET",
+    "url": "https://www.keepsilentshhh.com/product/clubhouse-bomber-jacket/11001016537000554",
+    "price": "฿ 2,690.00",
     "sizes": [
       "L",
       "M",
