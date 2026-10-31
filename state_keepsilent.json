@@ -1,10 +1,4 @@
 {
-  "https://www.keepsilentshhh.com/product/clubhouse-blanket/11001016537000589": {
-    "name": "CLUBHOUSE BLANKET",
-    "url": "https://www.keepsilentshhh.com/product/clubhouse-blanket/11001016537000589",
-    "price": "฿ 1,290.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/recreation-pennant-set/11001016537000586": {
     "name": "RECREATION PENNANT SET",
     "url": "https://www.keepsilentshhh.com/product/recreation-pennant-set/11001016537000586",
@@ -302,7 +296,7 @@
   "https://www.keepsilentshhh.com/product/let%E2%80%99s-eat-long-sleeve-tee/11001016537000366": {
     "name": "LET’S EAT LONG SLEEVE TEE",
     "url": "https://www.keepsilentshhh.com/product/let%E2%80%99s-eat-long-sleeve-tee/11001016537000366",
-    "price": "",
+    "price": "฿ 1,590.00",
     "sizes": [
       "L",
       "M",
@@ -477,6 +471,12 @@
     "name": "CLUB CAPTAIN",
     "url": "https://www.keepsilentshhh.com/product/club-captain/11001016537000590",
     "price": "฿ 5,660.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/clubhouse-blanket/11001016537000589": {
+    "name": "CLUBHOUSE BLANKET",
+    "url": "https://www.keepsilentshhh.com/product/clubhouse-blanket/11001016537000589",
+    "price": "฿ 1,290.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/home-team-blanket/11001016537000588": {
