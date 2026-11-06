@@ -109,12 +109,6 @@
     "price": "฿ 1,190.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/dust-sky-blue-corduroy-cap/11001016537000503": {
-    "name": "DUST SKY BLUE CORDUROY CAP",
-    "url": "https://www.keepsilentshhh.com/product/dust-sky-blue-corduroy-cap/11001016537000503",
-    "price": "฿ 1,190.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/nest-corduroy-cap/11001016537000502": {
     "name": "NEST CORDUROY CAP",
     "url": "https://www.keepsilentshhh.com/product/nest-corduroy-cap/11001016537000502",
@@ -136,12 +130,6 @@
       "M",
       "S"
     ]
-  },
-  "https://www.keepsilentshhh.com/product/1127-key/11001016537000280": {
-    "name": "1127 KEY",
-    "url": "https://www.keepsilentshhh.com/product/1127-key/11001016537000280",
-    "price": "฿ 990.00",
-    "sizes": []
   },
   "https://www.keepsilentshhh.com/product/27-tee/11001016537000354": {
     "name": "27 TEE",
@@ -250,7 +238,7 @@
   "https://www.keepsilentshhh.com/product/let%E2%80%99s-eat-long-sleeve-tee/11001016537000366": {
     "name": "LET’S EAT LONG SLEEVE TEE",
     "url": "https://www.keepsilentshhh.com/product/let%E2%80%99s-eat-long-sleeve-tee/11001016537000366",
-    "price": "฿ 1,590.00",
+    "price": "",
     "sizes": [
       "L",
       "M",
@@ -437,6 +425,18 @@
     "name": "THE SOCIALITE",
     "url": "https://www.keepsilentshhh.com/product/the-socialite/11001016537000594",
     "price": "฿ 3,960.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/club-captain/11001016537000590": {
+    "name": "CLUB CAPTAIN",
+    "url": "https://www.keepsilentshhh.com/product/club-captain/11001016537000590",
+    "price": "฿ 5,660.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/clubhouse-blanket/11001016537000589": {
+    "name": "CLUBHOUSE BLANKET",
+    "url": "https://www.keepsilentshhh.com/product/clubhouse-blanket/11001016537000589",
+    "price": "฿ 1,290.00",
     "sizes": []
   }
 }
