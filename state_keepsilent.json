@@ -41,12 +41,6 @@
     "price": "฿ 990.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/night-pin-set/11001016537000480": {
-    "name": "NIGHT PIN SET",
-    "url": "https://www.keepsilentshhh.com/product/night-pin-set/11001016537000480",
-    "price": "฿ 990.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/nest-oversized-crop-raglan-tee/11001016537000513": {
     "name": "NEST OVERSIZED CROP RAGLAN TEE",
     "url": "https://www.keepsilentshhh.com/product/nest-oversized-crop-raglan-tee/11001016537000513",
@@ -408,7 +402,7 @@
   "https://www.keepsilentshhh.com/product/club-captain/11001016537000590": {
     "name": "CLUB CAPTAIN",
     "url": "https://www.keepsilentshhh.com/product/club-captain/11001016537000590",
-    "price": "",
+    "price": "฿ 5,660.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/clubhouse-blanket/11001016537000589": {
@@ -434,5 +428,15 @@
     "url": "https://www.keepsilentshhh.com/product/clubhouse-socks/11001016537000584",
     "price": "฿ 390.00",
     "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/ks-recreation-club-tee/11001016537000578": {
+    "name": "KS RECREATION CLUB TEE",
+    "url": "https://www.keepsilentshhh.com/product/ks-recreation-club-tee/11001016537000578",
+    "price": "฿ 1,290.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   }
 }
