@@ -23,12 +23,6 @@
     "price": "฿ 390.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/clubhouse-socks/11001016537000584": {
-    "name": "CLUBHOUSE SOCKS",
-    "url": "https://www.keepsilentshhh.com/product/clubhouse-socks/11001016537000584",
-    "price": "฿ 390.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/athletic-cap/11001016537000583": {
     "name": "ATHLETIC CAP",
     "url": "https://www.keepsilentshhh.com/product/athletic-cap/11001016537000583",
@@ -218,7 +212,7 @@
   "https://www.keepsilentshhh.com/product/wishless-star-long-sleeve-tee/11001016537000370": {
     "name": "WISHLESS STAR LONG SLEEVE TEE",
     "url": "https://www.keepsilentshhh.com/product/wishless-star-long-sleeve-tee/11001016537000370",
-    "price": "",
+    "price": "฿ 1,590.00",
     "sizes": [
       "L",
       "M",
@@ -264,7 +258,7 @@
   "https://www.keepsilentshhh.com/product/keep-uni/11001016537000198": {
     "name": "KEEP UNI",
     "url": "https://www.keepsilentshhh.com/product/keep-uni/11001016537000198",
-    "price": "",
+    "price": "฿ 1,290.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/night-check-hawaii-shirt/11001016537000317": {
@@ -310,7 +304,7 @@
   "https://www.keepsilentshhh.com/product/baggy-cargo-shorts-black/11001016537000345": {
     "name": "BAGGY CARGO SHORTS-BLACK",
     "url": "https://www.keepsilentshhh.com/product/baggy-cargo-shorts-black/11001016537000345",
-    "price": "",
+    "price": "฿ 1,690.00",
     "sizes": [
       "L",
       "M",
@@ -414,7 +408,7 @@
   "https://www.keepsilentshhh.com/product/club-captain/11001016537000590": {
     "name": "CLUB CAPTAIN",
     "url": "https://www.keepsilentshhh.com/product/club-captain/11001016537000590",
-    "price": "฿ 5,660.00",
+    "price": "",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/clubhouse-blanket/11001016537000589": {
@@ -433,6 +427,12 @@
     "name": "ORIGINAL BLANKET",
     "url": "https://www.keepsilentshhh.com/product/original-blanket/11001016537000587",
     "price": "฿ 1,290.00",
+    "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/clubhouse-socks/11001016537000584": {
+    "name": "CLUBHOUSE SOCKS",
+    "url": "https://www.keepsilentshhh.com/product/clubhouse-socks/11001016537000584",
+    "price": "฿ 390.00",
     "sizes": []
   }
 }
