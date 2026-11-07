@@ -255,12 +255,6 @@
     "price": "฿ 1,290.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/keep-booboo/11001016537000203": {
-    "name": "KEEP BOOBOO",
-    "url": "https://www.keepsilentshhh.com/product/keep-booboo/11001016537000203",
-    "price": "฿ 1,290.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/night-check-hawaii-shirt/11001016537000317": {
     "name": "NIGHT CHECK HAWAII SHIRT",
     "url": "https://www.keepsilentshhh.com/product/night-check-hawaii-shirt/11001016537000317",
@@ -298,7 +292,7 @@
   "https://www.keepsilentshhh.com/product/keep-the-wonder-black-sweater/11001016537000251": {
     "name": "KEEP THE WONDER BLACK SWEATER",
     "url": "https://www.keepsilentshhh.com/product/keep-the-wonder-black-sweater/11001016537000251",
-    "price": "",
+    "price": "฿ 2,190.00",
     "sizes": []
   },
   "https://www.keepsilentshhh.com/product/baggy-cargo-shorts-black/11001016537000345": {
@@ -434,5 +428,15 @@
     "url": "https://www.keepsilentshhh.com/product/clubhouse-socks/11001016537000584",
     "price": "฿ 390.00",
     "sizes": []
+  },
+  "https://www.keepsilentshhh.com/product/ks-recreation-club-tee/11001016537000578": {
+    "name": "KS RECREATION CLUB TEE",
+    "url": "https://www.keepsilentshhh.com/product/ks-recreation-club-tee/11001016537000578",
+    "price": "฿ 1,290.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
   }
 }
