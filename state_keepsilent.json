@@ -339,12 +339,6 @@
     "price": "฿ 1,390.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/keep-snowman-indigo/11001016537000218": {
-    "name": "KEEP SNOWMAN INDIGO",
-    "url": "https://www.keepsilentshhh.com/product/keep-snowman-indigo/11001016537000218",
-    "price": "฿ 1,290.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/keep-dachshund/11001016537000188": {
     "name": "KEEP DACHSHUND",
     "url": "https://www.keepsilentshhh.com/product/keep-dachshund/11001016537000188",
@@ -423,15 +417,19 @@
     "price": "฿ 1,290.00",
     "sizes": []
   },
-  "https://www.keepsilentshhh.com/product/clubhouse-socks/11001016537000584": {
-    "name": "CLUBHOUSE SOCKS",
-    "url": "https://www.keepsilentshhh.com/product/clubhouse-socks/11001016537000584",
-    "price": "฿ 390.00",
-    "sizes": []
-  },
   "https://www.keepsilentshhh.com/product/ks-recreation-club-tee/11001016537000578": {
     "name": "KS RECREATION CLUB TEE",
     "url": "https://www.keepsilentshhh.com/product/ks-recreation-club-tee/11001016537000578",
+    "price": "฿ 1,290.00",
+    "sizes": [
+      "L",
+      "M",
+      "S"
+    ]
+  },
+  "https://www.keepsilentshhh.com/product/warm-up-tee/11001016537000574": {
+    "name": "WARM-UP TEE",
+    "url": "https://www.keepsilentshhh.com/product/warm-up-tee/11001016537000574",
     "price": "฿ 1,290.00",
     "sizes": [
       "L",
