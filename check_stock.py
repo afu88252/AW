@@ -16,8 +16,8 @@ LINE_TOKEN = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN", "").strip()
 LINE_USER_ID = os.environ.get("LINE_USER_ID", "").strip()
 STATE_FILE = Path("store_state.json")
 
-if not LINE_TOKEN or not LINE_USER_ID:
-    sys.exit("錯誤:缺少 LINE_CHANNEL_ACCESS_TOKEN 或 LINE_USER_ID,請到 Settings > Secrets 新增")
+if not LINE_TOKEN:
+    sys.exit("錯誤:缺少 LINE_CHANNEL_ACCESS_TOKEN,請到 Settings > Secrets 新增")
 
 
 def scrape() -> dict:
@@ -46,11 +46,16 @@ def scrape() -> dict:
 
 
 def push_line(message: str) -> None:
+    msgs = [{"type": "text", "text": message[:4500]}]
+    if LINE_USER_ID:  # 有 user ID:只傳給你;沒有:廣播給所有好友
+        url = "https://api.line.me/v2/bot/message/push"
+        body = {"to": LINE_USER_ID, "messages": msgs}
+    else:
+        url = "https://api.line.me/v2/bot/message/broadcast"
+        body = {"messages": msgs}
     req = urllib.request.Request(
-        "https://api.line.me/v2/bot/message/push",
-        data=json.dumps(
-            {"to": LINE_USER_ID, "messages": [{"type": "text", "text": message[:4500]}]}
-        ).encode("utf-8"),
+        url,
+        data=json.dumps(body).encode("utf-8"),
         headers={
             "Content-Type": "application/json",
             "Authorization": f"Bearer {LINE_TOKEN}",
