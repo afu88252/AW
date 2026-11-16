@@ -23,10 +23,9 @@ jobs:
           pip install playwright
           playwright install --with-deps chromium
 
-      - name: Check stock
+      - name: Check store
         env:
           PRODUCT_URL: ${{ secrets.PRODUCT_URL }}
-          PRODUCT_KEYWORD: ${{ secrets.PRODUCT_KEYWORD }}
           SOLD_OUT_TEXT: ${{ secrets.SOLD_OUT_TEXT }}
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
@@ -36,5 +35,5 @@ jobs:
         run: |
           git config user.name "restock-bot"
           git config user.email "restock-bot@users.noreply.github.com"
-          git add state.txt
-          git diff --staged --quiet || (git commit -m "update state" && git push)
+          git add store_state.json
+          git diff --staged --quiet || (git commit -m "update store state" && git push)
